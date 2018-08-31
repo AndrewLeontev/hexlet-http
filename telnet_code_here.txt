@@ -6,4 +6,4 @@ Content-Type: application/x-www-form-urlencode
 Content-length: 28
 Connection: close
 
-login=user&password=12345678
+login=user&password=123%3D45678
